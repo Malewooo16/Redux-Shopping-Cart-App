@@ -12,3 +12,11 @@
   font-family: monospace;
   font-size: 30px;
 }
+
+.dark{
+  padding: 10px;
+  font-size: 15px;
+  background-color:rgb(19, 18, 18);
+  color:white;
+  border-radius: 5px;
+}
